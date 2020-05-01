@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: maven-container
-        image: "{{ .Values.image.repository }}::{{ .Values.image.tag}}"
+        image: "{{ .Values.image.repository }}:{{ .Values.image.tag}}"
         ports:
         - containerPort: 8080
         readinessProbe:
