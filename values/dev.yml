@@ -1,5 +1,6 @@
 image:
   repository: index.docker.io/ramagcpgrafana/mavenapplication
+  tag: v27
 
 
 service:
