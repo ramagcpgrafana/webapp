@@ -3,4 +3,4 @@ image:
   tag: ${ trigger.properties['TAG'] }
 
 service:
-  targetport: 32450
+  targetport: 32453
