@@ -3,4 +3,4 @@ image:
   tag: latest
 
 service:
-  targetport: 32440
+  targetport: 32445
