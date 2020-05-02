@@ -13,6 +13,8 @@ matchLabels:
 
 image:
   repository: index.docker.io/ramagcpgrafana/mavenapplication
+  
+containerPort: 8080
 
 service:
   targetport: 32445
