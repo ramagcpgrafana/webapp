@@ -1,6 +1,6 @@
 image:
   repository: index.docker.io/ramagcpgrafana/mavenapplication
-  tag: latest
+  tag: 
 
 service:
   targetport: 32445
